@@ -10,7 +10,7 @@ subtitle: Learn More About Our Services
 </a>
 {: .actionbtn-out :}
 
-<div class="cut-buffer aboutus-buffer"></div>
+<div class="cut-buffer"></div>
 
 <div id="aboutus-out" class="page-section grey-section cut2">
   <div id="aboutus">
@@ -22,9 +22,9 @@ subtitle: Learn More About Our Services
 </div>
 
 
-<div class="cut-buffer values-buffer"></div>
+<div class="cut-buffer"></div>
 
-<div id="values-out" class="page-section cut2">
+<div id="values-out" class="page-section">
   <div id="values">
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
@@ -41,10 +41,10 @@ subtitle: Learn More About Our Services
 <div>
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">Contact Us</div><br/>
+    <div class="section-title">Ready to sell your product? Get in touch today for our response within 24 hours.</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
-    <span class="far fa-envelope" aria-hidden="true"></span>
+    <span class="far fa-envelope" aria-hidden="true">Contact!</span>
   </a>
 </div>
 
