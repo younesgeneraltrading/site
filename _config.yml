@@ -18,6 +18,12 @@ round-avatar: true
 #title-img: /path/to/image
 
 #####################################
+# --- Hero Image for the front page --- #
+#####################################
+
+hero_image: assets/img/toronto-skyline-james-wheeler.jpg
+
+#####################################
 # --- Footer social media links --- #
 #####################################
 
