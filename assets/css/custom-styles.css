@@ -6,6 +6,32 @@ header.intro-header {
     padding-top: 50px; /* Adjust this value as needed to center your title/subtitle */
 }
 
+
+/* Styles for the hero section with a background image */
+.hero-section {
+    background-image: url('{{ site.hero_image }}'); /* Use the hero_image from _config.yml */
+    background-size: cover; /* Cover the entire section */
+    background-position: center center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    color: #ffffff; /* White text for contrast against the image */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add a subtle shadow for text readability */
+    padding: 10rem 1rem; /* Increase padding for a larger hero area */
+    position: relative; /* Needed for the overlay */
+    z-index: 1; /* Ensure content is above the overlay */
+}
+
+/* Add a semi-transparent overlay for better text readability */
+.hero-section::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4); /* Dark overlay, adjust opacity as needed */
+    z-index: -1; /* Place behind the content */
+}
+
 * General styles for the body to ensure a clean base and modern font */
 body {
     font-family: 'Inter', sans-serif; /* Using Inter font for a modern look */
