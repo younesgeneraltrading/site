@@ -38,8 +38,8 @@ cover-img: /assets/img/toronto-skyline-james-wheeler.jpg
 	<h2>Ready to streamline your trading operations?</h2>
 	<p>Get in touch with our experts today for a personalized consultation and a response within 24 hours.</p>
 		<div class="actionbtn-out">
-			<a href="/contact" class="actionbtn">
-				<span class="far fa-envelope" aria-hidden="true">Contact Us</span>
+			<a href="mailto:info@younesgeneraltrading.ca?subject=Inquiry%20from%20Website" class="actionbtn">
+				<span class="far fa-envelope" aria-hidden="true"> Contact Us</span>
 			</a>
 		</div>
 	</div>
