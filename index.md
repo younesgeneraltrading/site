@@ -2,6 +2,8 @@
 layout: home
 title: Younes General Trading
 subtitle: Learn More About Our Services
+cover-img: /assets/img/toronto-skyline-james-wheeler.jpg
+full-width: true
 ---
 
 <section class="page-section hero-section">
