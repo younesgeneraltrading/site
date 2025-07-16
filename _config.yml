@@ -9,7 +9,7 @@ url: "https://selimyo.github.io"
 remote_theme: daattali/beautiful-jekyll@6.0.1
 avatar: "/assets/img/logo.png"
 round-avatar: true
-hero_image: assets/img/toronto-skyline-james-wheeler.jpg
+hero_image: "/assets/img/toronto-skyline-james-wheeler.jpg"
 
 # Build settings
 markdown: kramdown
