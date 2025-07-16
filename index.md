@@ -2,7 +2,7 @@
 layout: home
 title: Younes General Trading
 subtitle: Learn More About Our Services
-cover-img: /younes.github.io/assets/img/toronto-skyline-james-wheeler.jpg
+cover-img: /assets/img/toronto-skyline-james-wheeler.jpg
 <!-- full-width: true -->
 ---
 
