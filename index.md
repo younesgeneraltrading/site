@@ -10,12 +10,6 @@ cover-img: /assets/img/toronto-skyline-james-wheeler.jpg
 	<div class="text-center">
 		<h1>Global Trading Solutions for a Connected World</h1>
 		<p>We streamline the import and export of goods, offering reliable logistics and procurement services worldwide.</p>
-		<div class="actionbtn-out">
-			<a href="/contact" class="actionbtn">
-				<span class="far fa-envelope" aria-hidden="true"></span>
-				Contact Us
-			</a>
-		</div>
 	</div>
 </section>
 
@@ -34,11 +28,6 @@ cover-img: /assets/img/toronto-skyline-james-wheeler.jpg
 	<div class="text-center">
 	<h2>Our Values</h2>
 	<p>Driven by integrity and a commitment to excellence, we prioritize transparency and client satisfaction in every transaction. We believe in building long-term partnerships based on trust, reliability, and mutual success.</p>
-		<div class="actionbtn-out">
-			<a href="/contact" class="actionbtn">
-			Connect with us
-			</a>
-		</div>
 	</div>
 </section>
 
@@ -50,8 +39,7 @@ cover-img: /assets/img/toronto-skyline-james-wheeler.jpg
 	<p>Get in touch with our experts today for a personalized consultation and a response within 24 hours.</p>
 		<div class="actionbtn-out">
 			<a href="/contact" class="actionbtn">
-				<span class="far fa-envelope" aria-hidden="true"></span>
-				Get a Quote
+				<span class="far fa-envelope" aria-hidden="true">Contact Us</span>
 			</a>
 		</div>
 	</div>
