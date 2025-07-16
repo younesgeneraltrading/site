@@ -6,6 +6,9 @@ header.intro-header {
     padding-top: 50px; /* Adjust this value as needed to center your title/subtitle */
 }
 
+.page-header {
+  background-position: top center !important;
+}
 
 /* Styles for the hero section with a background image */
 .hero-section {
@@ -32,7 +35,6 @@ header.intro-header {
     z-index: -1; /* Place behind the content */
 }
 
-* General styles for the body to ensure a clean base and modern font */
 body {
     font-family: 'Inter', sans-serif; /* Using Inter font for a modern look */
     line-height: 1.6;
