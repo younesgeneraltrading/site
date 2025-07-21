@@ -81,39 +81,6 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Smaller shadow on click */
 }
 
-/* Styles for Font Awesome Regular icons */
-.far {
-    /* Base styles for Font Awesome Regular icons if needed, often handled by the FA library itself */
-    /* This class primarily acts as a selector for the icon font family */
-}
-
-/* Specific styles for the envelope icon (Font Awesome) */
-.fa-envelope {
-    margin-right: 0.5rem; /* Space between the icon and the text */
-    font-size: 1.1rem; /* Slightly larger than the button text for prominence */
-    /* The color will typically inherit from the parent (.actionbtn in this case) */
-}
-
-/* Styles for the cut-buffer class */
-.cut-buffer {
-    /* This class is typically used for hidden or temporary content, often for copy-to-clipboard functionality. */
-    /* It should be visually hidden but still accessible for JavaScript to interact with. */
-    position: absolute; /* Position absolutely to take it out of document flow */
-    left: -9999px; /* Move it far off-screen */
-    width: 1px; /* Minimal width */
-    height: 1px; /* Minimal height */
-    overflow: hidden; /* Hide any overflow content */
-    white-space: nowrap; /* Prevent text from wrapping */
-    clip: rect(0 0 0 0); /* Clip the element to be completely invisible */
-    border: 0; /* No border */
-    padding: 0; /* No padding */
-    margin: 0; /* No margin */
-    -webkit-user-select: all; /* Allow selection for copy on some browsers */
-    -moz-user-select: all;
-    -ms-user-select: all;
-    user-select: all; /* Allow selection for copy */
-}
-
 /* Styles for a main page section */
 .page-section {
     padding: 4rem 1rem; /* Generous vertical padding for visual separation on all devices */
@@ -151,6 +118,10 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     margin-bottom: 1rem;
     color: #212529; /* Darker color for headings */
+}
+
+h1 {
+  font-size: 2rem;
 }
 
 h2 {
