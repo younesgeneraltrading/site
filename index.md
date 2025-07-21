@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Younes General Trading
+<!-- title: Younes General Trading -->
 cover-img: /assets/img/toronto-skyline-james-wheeler-cropped.jpg
 <!-- full-width: true -->
 ---
