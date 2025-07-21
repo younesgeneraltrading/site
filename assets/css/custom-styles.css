@@ -14,10 +14,10 @@ header.intro-header {
 .hero-section {
     background-image: url('{{ site.hero_image }}'); /* Use the hero_image from _config.yml */
     background-size: cover; /* Cover the entire section */
-    background-position: center center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
+    background-position: top center !important;
+    background-repeat: no-repeat; 
     color: #ffffff; /* White text for contrast against the image */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add a subtle shadow for text readability */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9); /* Add a subtle shadow for text readability */
     padding: 10rem 1rem; /* Increase padding for a larger hero area */
     position: relative; /* Needed for the overlay */
     z-index: 1; /* Ensure content is above the overlay */
