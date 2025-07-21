@@ -167,3 +167,21 @@ p {
 .text-center {
     text-align: center;
 }
+
+.footer {
+  background-color: #f8f9fa; /* light gray background */
+  text-align: center;
+  font-size: 0.9rem; /* smaller font */
+  color: #555; /* muted text */
+  padding: 1.5rem 1rem;
+  border-top: 1px solid #e0e0e0;
+}
+
+.footer a {
+  color: #0077cc; /* email link color */
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
