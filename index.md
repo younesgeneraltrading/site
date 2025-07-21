@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Younes General Trading
-subtitle: Established in 2025, Younes General Trading is a family owned import/export company, based in Toronto, Ontario, Canada.
 cover-img: /assets/img/toronto-skyline-james-wheeler-cropped.jpg
 <!-- full-width: true -->
 ---
